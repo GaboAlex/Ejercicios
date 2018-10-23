@@ -17,7 +17,6 @@ namespace Ejercicio3
 
             String s1 = null;
             s1 = Console.ReadLine();
-
             switch (s1)
             {
                 case "1":   
@@ -27,21 +26,22 @@ namespace Ejercicio3
                     Console.WriteLine("El resultado es Martes");
                     break;
                 case "3":
-                    Console.WriteLine($"El resultado es Miercoles");
+                    Console.WriteLine("El resultado es Miercoles");
                     break;
                 case "4":
-                    Console.WriteLine($"El resultado es Jueves");
+                    Console.WriteLine("El resultado es Jueves");
                     break;
                 case "5":
-                    Console.WriteLine($"El resultado es Viernes");
+                    Console.WriteLine("El resultado es Viernes");
                     break;
                 case "6":
-                    Console.WriteLine($"El resultado es Sabado");
+                    Console.WriteLine("El resultado es Sabado");
                     break;
                 case "7":
-                    Console.WriteLine($"El resultado es Domingo");
+                    Console.WriteLine("El resultado es Domingo");
                     break;
                 default:
+                    Console.WriteLine("Numero no es valido");
                     break;
             }
         }

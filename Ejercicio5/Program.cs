@@ -17,42 +17,28 @@ namespace Ejercicio5
             int medio;
             int menor;
 
-            if (n1 > n2 && n1 > n3)
-            {
+            //Definir numero Mayor
+            if (n1 > n2 && n1 > n3){
                 mayor = n1;
-            }
-            else if (n2 > n1 && n2 > n3)
-            {
+            }else if (n2 > n1 && n2 > n3){
                 mayor = n2;
-            }
-            else
-            {
+            }else{
                 mayor = n3;
             }
-
-            if (n1 < n2 && n1 < n3)
-            {
+            //Definir numero Menor
+            if (n1 < n2 && n1 < n3){
                 menor = n1;
-            }
-            else if (n2 < n1 && n2 < n3)
-            {
+            }else if (n2 < n1 && n2 < n3){
                 menor = n2;
-            }
-            else
-            {
+            }else{
                 menor = n3;
             }
-
-            if (n1 > menor && n1 < mayor)
-            {
+            //Denifir numero del Medio
+            if (n1 > menor && n1 < mayor){
                 medio = n1;
-            }
-            else if (n2 > menor && n2 < mayor)
-            {
+            }else if (n2 > menor && n2 < mayor){
                 medio = n2;
-            }
-            else
-            {
+            }else{
                 medio = n3;
             }
             Console.WriteLine("{0} {1} {2}", menor, medio, mayor);

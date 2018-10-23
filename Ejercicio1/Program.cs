@@ -9,12 +9,15 @@ namespace Ejercicio1
             Console.WriteLine("Ingrese un numero del 1 al 5");
             int n1 = Int32.Parse(Console.ReadLine());
             int res = n1 % 2;
-            if (res != 0)
+            if (n1 == 1)
+            {
+                Console.WriteLine("El numero ingresado NO es primo");
+            }
+            else if (n1 == 2)
             {
                 Console.WriteLine("El numero ingresado es primo");
             }
-            else if (n1 == 2)
-
+            else if (res != 0)
             {
                 Console.WriteLine("El numero ingresado es primo");
             }

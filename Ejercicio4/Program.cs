@@ -50,6 +50,7 @@ namespace Ejercicio4
                     Console.WriteLine("El numero corresponde al Mes de Diciembre");
                     break;
                 default:
+                    Console.WriteLine("El numero no es valido");
                     break;
             }
         }
