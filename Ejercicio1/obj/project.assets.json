@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicio1\\Ejercicio1.csproj",
+      "projectUniqueName": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicios\\Ejercicio1\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicio1\\Ejercicio1.csproj",
+      "projectPath": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicios\\Ejercicio1\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\Tecsup\\.nuget\\packages\\",
-      "outputPath": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicio1\\obj\\",
+      "outputPath": "E:\\CodiGo-2018\\Back End\\Dia 3\\Ejercicio\\Ejercicios\\Ejercicio1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
