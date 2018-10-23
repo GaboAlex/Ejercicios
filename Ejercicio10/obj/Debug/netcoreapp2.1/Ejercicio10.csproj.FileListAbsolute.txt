@@ -1,0 +1,11 @@
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.csprojAssemblyReference.cache
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.csproj.CoreCompileInputs.cache
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.AssemblyInfoInputs.cache
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.AssemblyInfo.cs
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\bin\Debug\netcoreapp2.1\Ejercicio10.deps.json
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\bin\Debug\netcoreapp2.1\Ejercicio10.runtimeconfig.json
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\bin\Debug\netcoreapp2.1\Ejercicio10.runtimeconfig.dev.json
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\bin\Debug\netcoreapp2.1\Ejercicio10.dll
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\bin\Debug\netcoreapp2.1\Ejercicio10.pdb
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.dll
+E:\CodiGo-2018\Back End\Dia 3\Ejercicio\Ejercicios\Ejercicio10\obj\Debug\netcoreapp2.1\Ejercicio10.pdb
